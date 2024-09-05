@@ -1,8 +1,9 @@
 ## *THE PROCESS OF CREATHING AN RDS AWS DATABASE_INSTANCE ON CLI*
 
  ### The creation of VPC
-  * yuor two subnets has to be connected on the vpc using the vpc id
-  * The creation of two subnet_groups
+ ### The creation of two subnet
+       * yuor two subnets has to be connected on the vpc using the vpc id
+ ### The creation of two subnet_groups
          * yuor two subnet_groups must make use of yuor main subnet id
 ### Creation of two security groups, 
        * one for mysql port and secondry HTTPS port
