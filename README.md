@@ -1,9 +1,9 @@
-THE PROCESS OF CREATHING AN RDS AWS DATABASE_INSTANCE ON CLI
+**THE PROCESS OF CREATHING AN RDS AWS DATABASE_INSTANCE ON CLI**
 
 
 
-     * The creation of VPC
-     * The creation of two SUBNETS
+       The creation of VPC
+       The creation of two SUBNETS
          * yuor two subnets has to be connected on the vpc using the vpc id
     * The creation of two subnet_groups
          * yuor two subnet_groups must make use of yuor main subnet id
